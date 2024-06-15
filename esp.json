@@ -1,0 +1,11 @@
+{
+  "name": "PS4MACEDO LIGHT",
+  "version": "GOLDHEN V2.4b17.3/PSFREE",
+    "home_assistant_domain": "slim_player",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S2",
+      "parts": [{ "path": "ps4esp32s2sl.bin", "offset": 0 }]
+    }
+  ]
+}
